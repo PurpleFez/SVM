@@ -1,0 +1,2 @@
+﻿loadimage "..\..\tux.png"
+displayimage
